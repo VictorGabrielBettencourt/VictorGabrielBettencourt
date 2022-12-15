@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-    Aluno do instituto Proa localizado no Senac, onde estou desenvolvendo minhas habilidades pessoais e estudando Desenvolvimento Web Full Stack Java pra me tornar um profissional melhor. 😉️
+    Aluno do instituto Proa localizado no Senac, onde estou desenvolvendo minhas habilidades pessoais e estudando Desenvolvimento Web Full Stack Java pra me tornar um profissional mais capacitado para o mercado de trabalho. 😉️
   </p>
   
 </div>
